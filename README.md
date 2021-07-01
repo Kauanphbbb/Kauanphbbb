@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauanphbbb/)
 
 <p>Tudo bom? Sou desenvolvedor WEB com foco nas stacks do javascript. Gosto de desenvolver o backend com nodeJS, mas se precisar de um frontend consigo me virar pra te ajudar. Não me considero expert em front ou back, mas precisando de ajuda eu ajudo. Se tiver um projeto WEB precisando de uma mãozinha, pode contar comigo!</p>
-<p>Atualmente estou fazendo faculdade, e em um estágio de desenvolvimento com Node e Vue, mas sempre em busca de me atualizar nas stacks e ajudar outros devs.<p/>
+<p>Atualmente estou fazendo faculdade, e em um estágio de desenvolvimento com Node e Vue, sempre em busca de me atualizar nas stacks e ajudar outros devs.<p/>
 
 <br/>
 
