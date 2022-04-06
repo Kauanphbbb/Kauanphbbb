@@ -1,7 +1,7 @@
 ## Desenvolvedor WEB
 
 [![Twitter Badge](https://img.shields.io/badge/-twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kauanphbbb)
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-portela-1763a6168/)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauanportela/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kauanphbbb/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauanphbbb/)
 
